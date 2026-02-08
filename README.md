@@ -1,2 +1,2 @@
 # Deep-learning
-Repo de Prácaticas
+Repo de Prácticas
